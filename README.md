@@ -3,8 +3,8 @@
 _Proyecto realizado en el curso de Fundamentos de Algoritmos_
 
 <p align="center">
-  <img src="https://github.com/YLMV-2020/Ship-FP/blob/main/screenshot/game1.png" width="450px">
-  <img src="https://github.com/YLMV-2020/Ship-FP/blob/main/screenshot/game2.png" width="450px">
+  <img src="https://github.com/YLMV-2020/Ship-FP/blob/main/screenshot/game1.png" width="400px">
+  <img src="https://github.com/YLMV-2020/Ship-FP/blob/main/screenshot/game2.png" width="400px">
 </p>
  
  ## Descripción 🚀
